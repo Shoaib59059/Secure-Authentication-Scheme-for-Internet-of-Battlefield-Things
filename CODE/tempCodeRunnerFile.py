@@ -1,0 +1,5 @@
+        print("IDi : ", IDi)
+        print("Ki : ", Ki)
+        print("Ni : ", Ni)
+        print("Ci received : ", Ci)
+        print("Ci generated: ", Ci_generated)
