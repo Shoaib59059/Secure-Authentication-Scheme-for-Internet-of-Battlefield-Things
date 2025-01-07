@@ -1,4 +1,1 @@
-
-
-
-# Secure-Authentication-Scheme-for-Internet-of-Battlefield-Things
+# Secure Authentication Scheme for Internet of Battlefield Things (IoBT)
